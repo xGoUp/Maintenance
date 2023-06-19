@@ -27,3 +27,8 @@ p {
   font-size: 18px;
   margin-bottom: 5px;
 }
+
+#countdown {
+  font-size: 24px;
+  margin-top: 20px;
+}
